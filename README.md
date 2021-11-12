@@ -1,4 +1,4 @@
-# iPortfolio
-Aldrin Brillante's PM Portfolio
+# MyPortfolio
+Merissa Bridgeman's PM Portfolio
 
-[Available Here](https://aldrinbrillante.github.io/iPortfolio/index.html)
+[Available Here](https://merissab44.github.io/myPortfolio/index.html)
